@@ -36,4 +36,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0136-single-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
