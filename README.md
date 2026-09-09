@@ -40,4 +40,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 <!---LeetCode Topics End-->
