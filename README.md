@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,9 +38,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
