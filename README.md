@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/0268-missing-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhinesh2501/dhinesh_leetcode_problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
